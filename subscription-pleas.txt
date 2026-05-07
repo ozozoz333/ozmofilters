@@ -1,4 +1,5 @@
 ! Title: Ozmo Subscription Pleas Filters
+! License: https://github.com/ozozoz333/ozmofilters/blob/main/LICENSE
 thetraveltart.com##.mailmunch-scrollbox-iframe.mailmunch-scrollbox-iframe
 nbcnews.com##[class^="styles_subscription"]
 scientificamerican.com##[class^="subscriptionPleaContainer-"]

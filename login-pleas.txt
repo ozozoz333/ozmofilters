@@ -1,4 +1,5 @@
 ! Title: Ozmo Login Pleas Filters
+! License: https://github.com/ozozoz333/ozmofilters/blob/main/LICENSE
 wikipedia.org##.mw-notification-visible.postedit-tempuserpopup
 www.pcmag.com##.md\:px-4.md\:p-6.md\:my-16.py-4.bg-white.border-black.border-t.border-b.my-12.m-auto.relative.ziff-component
 www.space.com##.newsletter-form__wrapper--inbodyContent.newsletter-form__wrapper

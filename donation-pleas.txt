@@ -1,4 +1,5 @@
 ! Title: Ozmo Donation Pleas Filters
+! License: https://github.com/ozozoz333/ozmofilters/blob/main/LICENSE
 miraheze.org##mh-notice
 ||archive.org/includes/donate.php$subdocument
 creativecommons.org##.low-importance.attention

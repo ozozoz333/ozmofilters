@@ -1,3 +1,4 @@
 ! Title: Ozmo Notification Pleas Filters
+! License: https://github.com/ozozoz333/ozmofilters/blob/main/LICENSE
 www.express.co.uk###push-notification-wrapper
 
