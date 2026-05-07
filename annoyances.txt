@@ -1,4 +1,4 @@
-! Title: Ozmo Annoyances Filters
+! Title: ozmofilters: Annoyances
 ! License: https://github.com/ozozoz333/ozmofilters/blob/main/LICENSE
 ||accounts.google.com/gsi/iframe/select*$subdocument,domain=~/^.*\.goog|.*\.google|.*\.google\.com|google\.com|youtube\.com|youtu\.be$/
 

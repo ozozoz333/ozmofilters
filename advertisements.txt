@@ -1,4 +1,4 @@
-! Title: Ozmo Advertisements Filters
+! Title: ozmofilters: Advertisements
 ! License: https://github.com/ozozoz333/ozmofilters/blob/main/LICENSE
 ||justatic.com/*images*what-would-cost-*$image
 companiesmarketcap.com##.recoverub-container
