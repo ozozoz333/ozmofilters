@@ -1,0 +1,11 @@
+! Title: Ozmo Subscription Pleas Filters
+thetraveltart.com##.mailmunch-scrollbox-iframe.mailmunch-scrollbox-iframe
+nbcnews.com##[class^="styles_subscription"]
+scientificamerican.com##[class^="subscriptionPleaContainer-"]
+britannica.com##* > .marketing-content.marketing-INLINE_SUBSCRIPTION > .student-promo-banner-wrapper > .p-20.rounded.bg-blue.align-items-center.flex-column.d-flex.student-promo-bannersubstack.com##.show-subscribe.subscription-widget
+the-decoder.com##.not-prose.rounded-lg.text-white.bg-\(--decoder-highlight\)
+lwn.net##.ad
+siliconangle.com##.silic-after-content
+reclaimthenet.org##[class^=".e-lazyloaded.e-parent.e-con.e-con-boxed.e-flex.elementor-element"]
+reclaimthenet.org##[class^=".elementor-element"].elementor-element.elementor-top-column.elementor-col-100.elementor-column > .elementor-element-populated.elementor-widget-wrap
+

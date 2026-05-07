@@ -1,0 +1,6 @@
+! Title: Ozmo Donation Pleas Filters
+miraheze.org##mh-notice
+||archive.org/includes/donate.php$subdocument
+creativecommons.org##.low-importance.attention
+wikimediafoundation.org##.wp-block-group-is-layout-constrained.is-layout-constrained.has-global-padding.has-large-font-size.has-background.has-blue-aaa-background-color.pattern-donation-bar.alignfull.wp-block-group
+

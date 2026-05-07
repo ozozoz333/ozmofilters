@@ -1,0 +1,53 @@
+! Title: Ozmo Advertisements Filters
+! justia trademarks
+||justatic.com/*images*what-would-cost-*$image
+! companies market cap
+companiesmarketcap.com##.recoverub-container
+! howtogeek.com
+www.howtogeek.com##*.ad-zone
+
+! block weird emojicombos.com ads
+||i.imgur.com^$image,domain=emojicombos.com|emojidb.org
+! block perchance ads
+emojicombos.com###storyGenAiAboveTitleTextEl
+emojicombos.com##* > [href="https://perchance.org/story-ai"]
+
+! block cloudfront ads
+||cloudfront.net/*CUBE-Pod*$image
+||cloudfront.net/*ad*$image
+
+! w3schools
+||www.w3schools.com/*miniboot*$image
+||www.w3schools.com/*bootcamp*$image
+||www.w3schools.com/*easter*fullaccess*$image
+||www.w3schools.com/*academy*students*$image
+||www.w3schools.com/*easter*course*$image
+
+! moz.com
+moz.com###top-500-domains > .page-section-wrapper-cta-block.position-relative.page-section-wrapper > .page-section-cta-block.background-ultra-light-yellow.text-center.py-8.page-section-1113823.page-section-inspired-by-the-top-500-analyze-any-domain-for-free.page-section
+moz.com##.mt-4.tab-content > div.page-section-wrapper-cta-block.position-relative.page-section-wrapper
+
+! weird mug ads
+www.urbandictionary.com##*.merch-strip
+
+||www.baeldung.com/*sale*$image
+
+www.zdnet.com###vjs_video_3_html5_api
+www.zdnet.com##.c-pageArticleSingle_player.c-avStickyVideo
+
+techcrunch.com##.inline-cta__wrapper
+techcrunch.com##.rightrail-promo
+
+siliconangle.com##.cube-live-feed-content
+
+videogameschronicle.com##[class^=house-patreon]
+||ulopenaccess.com/theme/img/js*de*/ULBEC_S*ide.png$image
+onlinelibrary.wiley.com##.pb-las
+www.whistleout.com.au##* > [data-adplacement]
+jmail.world##.dropsite-embed-section
+techcrunch.com##.promo-banner-countdown__content-wrapper
+www.thetimes.com.au###gkTop0
+www.thetimes.com.au###gkSidebar > div
+||www.thetimes.com.au/images/ad*$image
+www.whistleout.com.au##*[data-adplacement]
+

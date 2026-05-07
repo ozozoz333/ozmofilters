@@ -1,0 +1,3 @@
+! Title: Ozmo Annoyances Filters
+||accounts.google.com/gsi/iframe/select*$subdocument,domain=~/^.*\.goog|.*\.google|.*\.google\.com|google\.com|youtube\.com|youtu\.be$/
+

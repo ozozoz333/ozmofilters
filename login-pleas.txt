@@ -1,0 +1,9 @@
+! Title: Ozmo Login Pleas Filters
+wikipedia.org##.mw-notification-visible.postedit-tempuserpopup
+www.pcmag.com##.md\:px-4.md\:p-6.md\:my-16.py-4.bg-white.border-black.border-t.border-b.my-12.m-auto.relative.ziff-component
+www.space.com##.newsletter-form__wrapper--inbodyContent.newsletter-form__wrapper
+theconversation.com##[data-testid="newsletter-sticky-popup"]
+theconversation.com##.promo
+pcgamer.com###clubPopup
+reuters.com##[data-testid="promo-box"]
+
