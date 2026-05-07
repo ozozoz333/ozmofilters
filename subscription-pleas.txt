@@ -10,3 +10,4 @@ siliconangle.com##.silic-after-content
 reclaimthenet.org##[class^=".e-lazyloaded.e-parent.e-con.e-con-boxed.e-flex.elementor-element"]
 reclaimthenet.org##[class^=".elementor-element"].elementor-element.elementor-top-column.elementor-col-100.elementor-column > .elementor-element-populated.elementor-widget-wrap
 theguardian.com##.maybe-later
+www.theguardian.com##gu-island[name="SlotBodyEnd"]
