@@ -1,4 +1,4 @@
-These are a set of filters for uBlock Origin that blocks pleas, ads not blocked by uB0 with default filters, and others. The subscription pleas filter does not block mandatory subscriptions.
+These are a set of filters for uBlock Origin that blocks pleas, ads not blocked with default filters, and annoyances. The subscription pleas filter does not block paywalls.
 
 # Installation
 Press the uBlock Origin icon in the top right of your browser, press the settings button, go to the "Filter lists" tab and paste the following into the Import tab:
