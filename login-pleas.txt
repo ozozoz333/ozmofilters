@@ -7,4 +7,5 @@ theconversation.com##[data-testid="newsletter-sticky-popup"]
 theconversation.com##.promo
 pcgamer.com###clubPopup
 reuters.com##[data-testid="promo-box"]
+www.theguardian.com##[aria-label^="newsletter"]
 
